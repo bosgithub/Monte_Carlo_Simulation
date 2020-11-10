@@ -15,9 +15,7 @@ ___Example___:
 Say we want to find the expected age of a big class, what we would do is find the distribution of all ages in the class, multiply the age with the probability of the specific age:
 
 
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=E\left&space;[&space;A&space;\right&space;]&space;\approx&space;\sum_{a}^{}P(a)&space;*&space;a" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E\left&space;[&space;A&space;\right&space;]&space;\approx&space;\sum_{a}^{}P(a)&space;*&space;a" title="E\left [ A \right ] \approx \sum_{a}^{}P(a) * a" /></a> = 20% * 20 years old + 50% * 21 years old + 30% * 19 years old 
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=E\left&space;[&space;A&space;\right&space;]&space;\approx&space;\sum_{a}^{}P(a)&space;*&space;a&space;=&space;20%&space;*&space;20&space;&plus;&space;50%&space;*&space;21&space;&plus;&space;30%&space;*&space;19" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E\left&space;[&space;A&space;\right&space;]&space;\approx&space;\sum_{a}^{}P(a)&space;*&space;a&space;=&space;20%&space;*&space;20&space;&plus;&space;50%&space;*&space;21&space;&plus;&space;30%&space;*&space;19" title="E\left [ A \right ] \approx \sum_{a}^{}P(a) * a = 20% * 20 + 50% * 21 + 30% * 19" /></a>
 
 What if we don't know the age distribution or probability of each specific age ahead of time? 
 
