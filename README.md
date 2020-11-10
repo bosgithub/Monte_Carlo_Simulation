@@ -14,7 +14,7 @@ Monte carlo simulation is a method of estimating the value of an unknown quantit
 Given a population, we draw samples from this populations, the idea is the samples will exhibit the same properties as the populations from which it is drawn.
 
 <br>
-___Example___:
+__Example:__
 
 Say we want to find the expected age of a big class, what we would do is find the distribution of all ages in the class, multiply the age with the probability of the specific age:
 
