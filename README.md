@@ -39,4 +39,4 @@ Say we want to find the expected age of a big class, what we would do is find th
 
 __Doesn't matter.__ As long as we are drawing samples __randomly__, we will get closer and closer to the expected age because samples will appear with the right frequencies.
 
-variance
+
